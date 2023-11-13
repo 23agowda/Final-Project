@@ -1,5 +1,7 @@
 # Final-Project
+
 Team Name: Penguins
+
 Team Members and Email Addresses: 
   Rin Tena - kgt8@pitt.edu
   Anushka Gowda - ang343@pitt.edu
