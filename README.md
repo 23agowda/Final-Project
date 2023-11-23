@@ -2,6 +2,8 @@
 
 Team Name: Penguins
 
+Canvas Group: # 7
+
 Team Members and Email Addresses: 
 
     Rin Tena - kgt8@pitt.edu
