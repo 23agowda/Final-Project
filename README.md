@@ -14,7 +14,7 @@ Team Members and Email Addresses:
 
     City of Pittsburgh Pools - https://data.wprdc.org/dataset/city-pools/resource/5cc254fe-2cbd-4912-9f44-2f95f0beea9a 
     
-    25% or Greater Slope - https://data.wprdc.org/dataset/25-or-greater-slope/resource/3ba94030-bda4-47e5-9e8d-a5ae1aef569c 
+    Parks - https://data.wprdc.org/datastore/dump/bb57d0a7-e8ee-4218-8906-0dedc903038c
     
     2010 Census Tracts - https://data.wprdc.org/dataset/2010-census-tracts/resource/9756af5f-3320-4601-84e2-347d64071e25
   
