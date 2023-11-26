@@ -14,8 +14,16 @@ Team Members and Email Addresses:
 
     City of Pittsburgh Pools - https://data.wprdc.org/dataset/city-pools/resource/5cc254fe-2cbd-4912-9f44-2f95f0beea9a 
     
-    Parks - https://data.wprdc.org/datastore/dump/bb57d0a7-e8ee-4218-8906-0dedc903038c
+    Parks - https://data.wprdc.org/dataset/parks1/resource/bb57d0a7-e8ee-4218-8906-0dedc903038c
     
     2010 Census Tracts - https://data.wprdc.org/dataset/2010-census-tracts/resource/9756af5f-3320-4601-84e2-347d64071e25
+
+Individual Analysis Notebooks:
+    
+    Anushka: Final-Personal-AG
+
+    Rin: ParkData
+
+    Together: Final-Personal-Together
   
-Our repository entails code derived from the three datasets and data analysis in order to determine the "best neighborhood" for a penguin to reside in. 
+Our repository entails code derived from the three datasets, and data analysis in order to determine the "best neighborhood" for a penguin to reside in. 
